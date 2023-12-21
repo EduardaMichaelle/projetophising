@@ -17,4 +17,5 @@
 * URL para clone: http://www.facebook.com
 
 ## Resultado:
-![image](https://github.com/EduardaMichaelle/projetophising/assets/78242191/c6fb3b5e-d482-4041-9a0f-1ffb8738b874)
+![image](https://github.com/EduardaMichaelle/projetophising/assets/78242191/a3cd156c-dd2d-4145-b287-bd82be915c93)
+
